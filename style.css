@@ -1,0 +1,94 @@
+/* UNIVERSAL */
+
+body {
+	display: block;
+	height: 100vh;
+	width: 100vw;
+}
+
+.titl {
+	font-family: 'Press Start 2P', cursive;
+}
+
+.subtitle {
+	font-family: 'VT323', monospace;
+}
+
+.reg {
+	font-family: 'Source Code Pro', monospace;
+}
+
+/* INDEX */
+
+.row {
+	height: 20%;
+	width: 100%;
+}
+
+.options {
+	display: flex;
+	height: 60%;
+	width: 100%;
+}
+
+.choice {
+	height: 100%;
+	width: 50%;
+}
+
+/* VOTER & CANDIDATE PATH */
+
+.holder {
+	display: flex;
+	height: 100%;
+	width: 100%;
+}
+
+.column {
+	height: 100%;
+	width: 40%;
+}
+
+.partisan {
+	height: 50%;
+	width: 100%;
+}
+
+.avatar {
+	height: 100%;
+	width: 20%;
+}
+
+
+/* COLORS */
+
+.lightgreen {
+	background-color: #CCC014;
+}
+
+.green {
+	background-color: #B2A809;
+}
+
+.red {
+	background-color: #FF1952;
+}
+
+.blue {
+	background-color: #1289B2;
+}
+
+/* VOTER AVATAR */
+.body{
+	display: flex;
+	height: 100vh;
+	width: 50vw;
+}
+.avatar{
+	height:100%;
+	width: 50%;
+}
+.profile{
+	height:100%;
+	width: 50%;
+}
